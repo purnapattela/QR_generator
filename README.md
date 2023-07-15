@@ -8,7 +8,7 @@ This guide provides instructions for using the QR code generator, which generate
 - [Installation ](#installation)
 - [Usage](#usage)
 - [Troubleshooting](#troubleshooting)
-- [**Contributing** 💖](#contributing)
+- [Contributing💖](#contributing)
 
 ## Installation
 To use the QR code generator, you need to have Node.js installed on your machine. Follow these steps to set up the environment:
